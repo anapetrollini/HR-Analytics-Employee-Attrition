@@ -154,6 +154,8 @@ O relatório possui três páginas analíticas.
 **Objetivo:** apresentar uma visão executiva do cenário de attrition e
 identificar onde os desligamentos estão mais concentrados.
 
+![Executive Overview](images/executive-overview.png)
+
 Principais componentes: - Total de colaboradores - Colaboradores
 desligados - Attrition Rate - Idade média - Renda mensal média -
 Attrition Rate por departamento - Attrition Rate por cargo - Attrition
@@ -169,6 +171,8 @@ entre os cargos, com **39,76%**.
 **Objetivo:** explorar características dos colaboradores e condições de
 trabalho associadas a maiores taxas de attrition.
 
+![Attrition Drivers](images/attrition-drivers.png)
+
 Análises: - Tempo de empresa - Faixa etária - Horas extras - Work-Life
 Balance - Satisfação com o ambiente
 
@@ -183,6 +187,8 @@ sobreposição entre idade e tempo de empresa, portanto essas variáveis
 não devem ser automaticamente interpretadas como fatores independentes.
 
 ### 3. Work Experience & Development
+
+![Work Experience & Development](images/work-experience-development.png)
 
 **Objetivo:** explorar como experiência de trabalho, envolvimento,
 viagens, distância e desenvolvimento se relacionam com attrition.
