@@ -1,4 +1,6 @@
-# HR Analytics \| Employee Attrition Analysis
+# HR Analytics | Employee Attrition Analysis
+
+🇺🇸 **English** | [🇧🇷 Português](README-PTBR.md)
 
 > A People Analytics case study built in Power BI to explore employee
 > attrition patterns, identify workforce groups with higher attrition
