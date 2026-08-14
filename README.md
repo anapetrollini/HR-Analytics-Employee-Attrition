@@ -143,6 +143,8 @@ The report contains three analytical pages.
 **Purpose:** Provide a high-level view of workforce attrition and
 identify where attrition is most concentrated.
 
+![Attrition Drivers](images/attrition-drivers.png)
+
 Main components: - Total Employees - Employees Left - Attrition Rate -
 Average Age - Average Monthly Income - Attrition Rate by Department -
 Attrition Rate by Job Role - Attrition Rate by Gender - Dynamic Key
@@ -157,6 +159,8 @@ attrition rate at **39.76%**.
 
 **Purpose:** Explore employee characteristics and workplace conditions
 associated with higher attrition.
+
+![Attrition Drivers](images/attrition-drivers.png)
 
 Analyses: - Tenure - Age Group - Overtime - Work-Life Balance -
 Environment Satisfaction
@@ -175,6 +179,8 @@ independent drivers.
 
 **Purpose:** Explore how work experience, engagement, travel, commuting
 distance, and development relate to attrition.
+
+![Work Experience & Development](images/work-experience-development.png)
 
 Analyses: - Training Frequency - Job Involvement - Business Travel -
 Distance From Home
