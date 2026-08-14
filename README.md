@@ -2,6 +2,10 @@
 
 🇺🇸 **English** | [🇧🇷 Português](README-PTBR.md)
 
+**Power BI • Power Query • DAX • People Analytics • Data Visualization • Data Storytelling**
+
+📊 **Dashboard:** [Download the Power BI file](dashboard/PeopleAnalyticsEmployeeAttrition.pbix)
+
 > A People Analytics case study built in Power BI to explore employee
 > attrition patterns, identify workforce groups with higher attrition
 > rates, and translate data into actionable HR questions.
