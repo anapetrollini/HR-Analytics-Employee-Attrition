@@ -1,4 +1,6 @@
-# HR Analytics \| Análise de Attrition de Colaboradores
+# HR Analytics | Análise de Attrition de Colaboradores
+
+[🇺🇸 English](README.md) | 🇧🇷 **Português**
 
 > Um estudo de caso de People Analytics desenvolvido no Power BI para
 > explorar padrões de desligamento, identificar grupos de colaboradores
