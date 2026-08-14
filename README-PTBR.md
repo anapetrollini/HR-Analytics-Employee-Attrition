@@ -4,7 +4,7 @@
 
 **Power BI • Power Query • DAX • People Analytics • Data Visualization • Data Storytelling**
 
-📊 **Dashboard:** [Baixar o arquivo do Power BI](dashboard/PeopleAnalyticsEmployeeAttrition.pbix)
+📊 **Dashboard:** [Baixe o arquivo .pbix para explorar o relatório interativo no Power BI Desktop.](dashboard/PeopleAnalyticsEmployeeAttrition.pbix)
 
 > Um estudo de caso de People Analytics desenvolvido no Power BI para
 > explorar padrões de desligamento, identificar grupos de colaboradores
